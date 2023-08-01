@@ -13,4 +13,3 @@ Test Data :
 Input characters : w3resource
 Expected Output :
 Uppercase letters: 0 Lowercase letters: 9 Other characters: 1
-```
